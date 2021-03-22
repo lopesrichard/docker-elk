@@ -1,0 +1,476 @@
+{"op":"set","id":1}
+{"k":"filebeat::logs::native::5131769-2050","v":{"identifier_name":"native","type":"log","FileStateOS":{"inode":5131769,"device":2050},"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702758111180,1616425073],"ttl":-1,"id":"native::5131769-2050","prev_id":""}}
+{"op":"set","id":2}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702758111180,1616425073],"ttl":-1,"type":"log","id":"native::5131769-2050","FileStateOS":{"device":2050,"inode":5131769},"identifier_name":"native"}}
+{"op":"set","id":3}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","offset":0,"type":"log","identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702758504839,1616425073],"ttl":-1,"FileStateOS":{"inode":5131770,"device":2050}}}
+{"op":"set","id":4}
+{"k":"filebeat::logs::native::5131769-2050","v":{"FileStateOS":{"inode":5131769,"device":2050},"prev_id":"","ttl":-1,"type":"log","timestamp":[280702758111180,1616425073],"identifier_name":"native","id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0}}
+{"op":"set","id":5}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","offset":0,"timestamp":[280702758504839,1616425073],"FileStateOS":{"device":2050,"inode":5131770},"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","ttl":-1,"type":"log","identifier_name":"native"}}
+{"op":"set","id":6}
+{"k":"filebeat::logs::native::5131769-2050","v":{"timestamp":[280702680096130,1616425135],"id":"native::5131769-2050","prev_id":"","ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0}}
+{"op":"set","id":7}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","prev_id":"","type":"log","identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702758504839,1616425073],"ttl":-2,"FileStateOS":{"inode":5131770,"device":2050}}}
+{"op":"set","id":8}
+{"k":"filebeat::logs::native::5131769-2050","v":{"timestamp":[280702680096130,1616425135],"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"ttl":-1,"type":"log"}}
+{"op":"set","id":9}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","type":"log","FileStateOS":{"device":2050,"inode":5131770},"identifier_name":"native","offset":0,"timestamp":[280702680261844,1616425135],"ttl":-1}}
+{"op":"set","id":10}
+{"k":"filebeat::logs::native::5131769-2050","v":{"identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702680449917,1616425135],"type":"log","FileStateOS":{"device":2050,"inode":5131769},"id":"native::5131769-2050","prev_id":"","ttl":-1}}
+{"op":"set","id":11}
+{"k":"filebeat::logs::native::5131770-2050","v":{"ttl":-1,"FileStateOS":{"inode":5131770,"device":2050},"prev_id":"","offset":0,"timestamp":[280702680261844,1616425135],"identifier_name":"native","id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","type":"log"}}
+{"op":"set","id":12}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"type":"log","ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","prev_id":"","timestamp":[280702680449917,1616425135]}}
+{"op":"set","id":13}
+{"k":"filebeat::logs::native::5131770-2050","v":{"type":"log","FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702680619547,1616425135],"ttl":-1,"identifier_name":"native","prev_id":"","offset":0}}
+{"op":"set","id":14}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","timestamp":[280702680449917,1616425135],"ttl":-1,"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"type":"log","FileStateOS":{"device":2050,"inode":5131769},"identifier_name":"native"}}
+{"op":"set","id":15}
+{"k":"filebeat::logs::native::5131770-2050","v":{"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","ttl":-1,"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702680619547,1616425135],"type":"log","id":"native::5131770-2050"}}
+{"op":"set","id":16}
+{"k":"filebeat::logs::native::5131769-2050","v":{"timestamp":[280702596125123,1616425325],"ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0}}
+{"op":"set","id":17}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","timestamp":[280702680619547,1616425135],"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","offset":0,"ttl":-2,"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml"}}
+{"op":"set","id":18}
+{"k":"filebeat::logs::native::5131769-2050","v":{"ttl":-1,"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702596125123,1616425325],"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050"}}
+{"op":"set","id":19}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702596238813,1616425325],"type":"log","id":"native::5131770-2050","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","ttl":-1}}
+{"op":"set","id":20}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","timestamp":[280702596411069,1616425325],"ttl":-1,"type":"log","identifier_name":"native"}}
+{"op":"set","id":21}
+{"k":"filebeat::logs::native::5131770-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702596238813,1616425325],"prev_id":"","ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050"}}
+{"op":"set","id":22}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702596411069,1616425325],"type":"log","FileStateOS":{"device":2050,"inode":5131769},"id":"native::5131769-2050","prev_id":"","ttl":-1,"identifier_name":"native"}}
+{"op":"set","id":23}
+{"k":"filebeat::logs::native::5131770-2050","v":{"timestamp":[280702596568126,1616425325],"FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","prev_id":"","ttl":-1,"type":"log","identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0}}
+{"op":"set","id":24}
+{"k":"filebeat::logs::native::5131769-2050","v":{"offset":0,"timestamp":[280702596411069,1616425325],"FileStateOS":{"device":2050,"inode":5131769},"ttl":-1,"type":"log","identifier_name":"native","id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml"}}
+{"op":"set","id":25}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702596568126,1616425325],"type":"log","FileStateOS":{"device":2050,"inode":5131770},"prev_id":"","offset":0,"ttl":-1,"identifier_name":"native"}}
+{"op":"set","id":26}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","prev_id":"","type":"log","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280701971359028,1616425585],"ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":27}
+{"k":"filebeat::logs::native::5131770-2050","v":{"offset":0,"ttl":-2,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702596568126,1616425325]}}
+{"op":"set","id":28}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280701971359028,1616425585],"type":"log","id":"native::5131769-2050","ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","offset":0}}
+{"op":"set","id":29}
+{"k":"filebeat::logs::native::5131770-2050","v":{"offset":0,"timestamp":[280701971639096,1616425585],"ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml"}}
+{"op":"set","id":30}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","identifier_name":"native","FileStateOS":{"inode":5131769,"device":2050},"prev_id":"","offset":0,"timestamp":[280701971966833,1616425585],"ttl":-1,"type":"log"}}
+{"op":"set","id":31}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","ttl":-1,"FileStateOS":{"inode":5131770,"device":2050},"type":"log","identifier_name":"native","id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280701971639096,1616425585]}}
+{"op":"set","id":32}
+{"k":"filebeat::logs::native::5131769-2050","v":{"timestamp":[280701971966833,1616425585],"identifier_name":"native","id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":33}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280701972125965,1616425585],"offset":0,"ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":34}
+{"k":"filebeat::logs::native::5131769-2050","v":{"offset":0,"ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"timestamp":[280701971966833,1616425585],"type":"log","identifier_name":"native","id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml"}}
+{"op":"set","id":35}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","offset":0,"ttl":-1,"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280701972125965,1616425585],"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":36}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"ttl":-1,"type":"log","prev_id":"","timestamp":[280702354167558,1616425737],"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050"}}
+{"op":"set","id":37}
+{"k":"filebeat::logs::native::5131770-2050","v":{"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","ttl":-2,"type":"log","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280701972125965,1616425585],"id":"native::5131770-2050","prev_id":""}}
+{"op":"set","id":38}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","prev_id":"","ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702354167558,1616425737],"type":"log"}}
+{"op":"set","id":39}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","prev_id":"","type":"log","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702354440661,1616425737],"ttl":-1,"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":40}
+{"k":"filebeat::logs::native::5131769-2050","v":{"offset":0,"timestamp":[280702354488437,1616425737],"ttl":-1,"type":"log","id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":41}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702354440661,1616425737],"ttl":-1}}
+{"op":"set","id":42}
+{"k":"filebeat::logs::native::5131769-2050","v":{"identifier_name":"native","id":"native::5131769-2050","prev_id":"","timestamp":[280702354488437,1616425737],"ttl":-1,"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"type":"log","FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":43}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","offset":0,"identifier_name":"native","id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702354657232,1616425737],"ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050}}}
+{"op":"set","id":44}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","ttl":-1,"type":"log","id":"native::5131769-2050","offset":0,"timestamp":[280702354488437,1616425737],"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","prev_id":""}}
+{"op":"set","id":45}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","offset":0,"ttl":-1,"FileStateOS":{"inode":5131770,"device":2050},"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702354657232,1616425737],"type":"log","identifier_name":"native"}}
+{"op":"set","id":46}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"ttl":-2,"identifier_name":"native","id":"native::5131769-2050","prev_id":"","timestamp":[280702354488437,1616425737],"type":"log","FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":47}
+{"k":"filebeat::logs::native::5131770-2050","v":{"ttl":-2,"type":"log","prev_id":"","timestamp":[280702354657232,1616425737],"offset":0,"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml"}}
+{"op":"set","id":48}
+{"k":"filebeat::logs::native::5131769-2050","v":{"timestamp":[280702354488437,1616425737],"identifier_name":"native","ttl":-2,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0}}
+{"op":"set","id":49}
+{"k":"filebeat::logs::native::5131770-2050","v":{"timestamp":[280702354657232,1616425737],"type":"log","identifier_name":"native","id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"ttl":-2,"FileStateOS":{"inode":5131770,"device":2050}}}
+{"op":"set","id":50}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","ttl":-1,"type":"log","id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280701958586136,1616425774]}}
+{"op":"set","id":51}
+{"k":"filebeat::logs::native::5131770-2050","v":{"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"type":"log","prev_id":"","timestamp":[280702354657232,1616425737],"ttl":-2}}
+{"op":"set","id":52}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","offset":0,"timestamp":[280701958586136,1616425774],"type":"log","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml"}}
+{"op":"set","id":53}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280701958716568,1616425774],"ttl":-1,"type":"log","FileStateOS":{"device":2050,"inode":5131770},"identifier_name":"native"}}
+{"op":"set","id":54}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","offset":0,"ttl":-1,"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280701958586136,1616425774],"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":55}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280701958954794,1616425774],"ttl":-1,"type":"log","FileStateOS":{"device":2050,"inode":5131770},"identifier_name":"native"}}
+{"op":"set","id":56}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","timestamp":[280701959095993,1616425774],"type":"log","ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0}}
+{"op":"set","id":57}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","prev_id":"","offset":0,"timestamp":[280701958954794,1616425774]}}
+{"op":"set","id":58}
+{"k":"filebeat::logs::native::5131769-2050","v":{"ttl":-1,"type":"log","identifier_name":"native","id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280701959095993,1616425774],"prev_id":"","FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":59}
+{"k":"filebeat::logs::native::5131770-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280701958954794,1616425774],"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","prev_id":"","ttl":-1}}
+{"op":"set","id":60}
+{"k":"filebeat::logs::native::5132503-2050","v":{"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","FileStateOS":{"inode":5132503,"device":2050},"ttl":-1,"type":"log","identifier_name":"native","id":"native::5132503-2050","offset":0,"timestamp":[280701960602174,1616425794]}}
+{"op":"set","id":61}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","prev_id":"","timestamp":[280701959095993,1616425774],"ttl":-1,"type":"log","identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":62}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","offset":0,"timestamp":[280701958954794,1616425774],"id":"native::5131770-2050","ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml"}}
+{"op":"set","id":63}
+{"k":"filebeat::logs::native::5132503-2050","v":{"prev_id":"","offset":0,"identifier_name":"native","id":"native::5132503-2050","timestamp":[280701960602174,1616425794],"ttl":-1,"type":"log","FileStateOS":{"inode":5132503,"device":2050},"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml"}}
+{"op":"set","id":64}
+{"k":"filebeat::logs::native::5131769-2050","v":{"timestamp":[280702122542917,1616425835],"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","ttl":-1,"id":"native::5131769-2050","offset":0}}
+{"op":"set","id":65}
+{"k":"filebeat::logs::native::5131770-2050","v":{"timestamp":[280701958954794,1616425774],"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"ttl":-2,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050"}}
+{"op":"set","id":66}
+{"k":"filebeat::logs::native::5132503-2050","v":{"type":"log","FileStateOS":{"inode":5132503,"device":2050},"identifier_name":"native","id":"native::5132503-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","offset":0,"timestamp":[280701960602174,1616425794],"ttl":-2}}
+{"op":"set","id":67}
+{"k":"filebeat::logs::native::5131769-2050","v":{"offset":0,"identifier_name":"native","id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702122542917,1616425835],"ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"prev_id":""}}
+{"op":"set","id":68}
+{"k":"filebeat::logs::native::5131770-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"ttl":-1,"type":"log","id":"native::5131770-2050","prev_id":"","identifier_name":"native","timestamp":[280702122658120,1616425835],"FileStateOS":{"inode":5131770,"device":2050}}}
+{"op":"set","id":69}
+{"k":"filebeat::logs::native::5132503-2050","v":{"ttl":-2,"FileStateOS":{"inode":5132503,"device":2050},"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","offset":0,"timestamp":[280701960602174,1616425794],"identifier_name":"native","id":"native::5132503-2050","prev_id":"","type":"log"}}
+{"op":"set","id":70}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","prev_id":"","type":"log","FileStateOS":{"inode":5131769,"device":2050},"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702122542917,1616425835],"ttl":-1,"identifier_name":"native"}}
+{"op":"set","id":71}
+{"k":"filebeat::logs::native::5131770-2050","v":{"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702122658120,1616425835],"ttl":-1}}
+{"op":"set","id":72}
+{"k":"filebeat::logs::native::5132503-2050","v":{"type":"log","identifier_name":"native","id":"native::5132503-2050","prev_id":"","timestamp":[280702122721538,1616425835],"ttl":-1,"FileStateOS":{"inode":5132503,"device":2050},"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","offset":0}}
+{"op":"set","id":73}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","ttl":-1,"type":"log","id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702123015752,1616425835],"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":74}
+{"k":"filebeat::logs::native::5131770-2050","v":{"type":"log","FileStateOS":{"inode":5131770,"device":2050},"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702122658120,1616425835],"ttl":-1,"id":"native::5131770-2050","prev_id":"","identifier_name":"native"}}
+{"op":"set","id":75}
+{"k":"filebeat::logs::native::5132503-2050","v":{"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","offset":0,"type":"log","FileStateOS":{"inode":5132503,"device":2050},"id":"native::5132503-2050","timestamp":[280702122721538,1616425835],"ttl":-1,"identifier_name":"native"}}
+{"op":"set","id":76}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","timestamp":[280702123015752,1616425835],"ttl":-1,"FileStateOS":{"device":2050,"inode":5131769},"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"type":"log","identifier_name":"native"}}
+{"op":"set","id":77}
+{"k":"filebeat::logs::native::5131770-2050","v":{"timestamp":[280702123124742,1616425835],"ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"identifier_name":"native"}}
+{"op":"set","id":78}
+{"k":"filebeat::logs::native::5132503-2050","v":{"offset":0,"FileStateOS":{"inode":5132503,"device":2050},"id":"native::5132503-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","timestamp":[280702122721538,1616425835],"ttl":-1,"type":"log","identifier_name":"native","prev_id":""}}
+{"op":"set","id":79}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","ttl":-1,"identifier_name":"native","prev_id":"","offset":0,"timestamp":[280702123015752,1616425835],"type":"log","FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":80}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","prev_id":"","timestamp":[280702123124742,1616425835],"FileStateOS":{"inode":5131770,"device":2050},"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"ttl":-1,"type":"log","identifier_name":"native"}}
+{"op":"set","id":81}
+{"k":"filebeat::logs::native::5132503-2050","v":{"id":"native::5132503-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","timestamp":[280702122721538,1616425835],"ttl":-1,"offset":0,"type":"log","FileStateOS":{"inode":5132503,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":82}
+{"k":"filebeat::logs::native::5131769-2050","v":{"offset":0,"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702715222262,1616425852],"ttl":-1,"type":"log"}}
+{"op":"set","id":83}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","offset":0,"type":"log","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702123124742,1616425835],"ttl":-2,"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":84}
+{"k":"filebeat::logs::native::5132503-2050","v":{"timestamp":[280702122721538,1616425835],"FileStateOS":{"inode":5132503,"device":2050},"type":"log","identifier_name":"native","id":"native::5132503-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","offset":0,"ttl":-2}}
+{"op":"set","id":85}
+{"k":"filebeat::logs::native::5131769-2050","v":{"ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","prev_id":"","offset":0,"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702715222262,1616425852]}}
+{"op":"set","id":86}
+{"k":"filebeat::logs::native::5131770-2050","v":{"offset":0,"timestamp":[280702715395675,1616425852],"ttl":-1,"type":"log","id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","prev_id":""}}
+{"op":"set","id":87}
+{"k":"filebeat::logs::native::5132503-2050","v":{"offset":0,"ttl":-2,"type":"log","identifier_name":"native","id":"native::5132503-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","timestamp":[280702122721538,1616425835],"FileStateOS":{"inode":5132503,"device":2050}}}
+{"op":"set","id":88}
+{"k":"filebeat::logs::native::5131769-2050","v":{"identifier_name":"native","id":"native::5131769-2050","FileStateOS":{"device":2050,"inode":5131769},"offset":0,"timestamp":[280702715222262,1616425852],"ttl":-1,"type":"log","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml"}}
+{"op":"set","id":89}
+{"k":"filebeat::logs::native::5131770-2050","v":{"offset":0,"ttl":-1,"type":"log","identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","prev_id":"","timestamp":[280702715395675,1616425852],"FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050"}}
+{"op":"set","id":90}
+{"k":"filebeat::logs::native::5132503-2050","v":{"id":"native::5132503-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","offset":0,"timestamp":[280702715499000,1616425852],"identifier_name":"native","ttl":-1,"type":"log","FileStateOS":{"device":2050,"inode":5132503}}}
+{"op":"set","id":91}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702715222262,1616425852],"ttl":-1,"type":"log","id":"native::5131769-2050","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":92}
+{"k":"filebeat::logs::native::5131770-2050","v":{"offset":0,"timestamp":[280702716523301,1616425852],"ttl":-1,"type":"log","id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","FileStateOS":{"device":2050,"inode":5131770},"identifier_name":"native"}}
+{"op":"set","id":93}
+{"k":"filebeat::logs::native::5132503-2050","v":{"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","offset":0,"type":"log","FileStateOS":{"inode":5132503,"device":2050},"id":"native::5132503-2050","timestamp":[280702715499000,1616425852],"ttl":-1}}
+{"op":"set","id":94}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702715222262,1616425852]}}
+{"op":"set","id":95}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","type":"log","identifier_name":"native","timestamp":[280702716523301,1616425852],"ttl":-1,"FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0}}
+{"op":"set","id":96}
+{"k":"filebeat::logs::native::5132503-2050","v":{"type":"log","FileStateOS":{"inode":5132503,"device":2050},"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","offset":0,"timestamp":[280702716633040,1616425852],"ttl":-1,"identifier_name":"native","id":"native::5132503-2050"}}
+{"op":"set","id":97}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","prev_id":"","type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702716698307,1616425852],"ttl":-1}}
+{"op":"set","id":98}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","prev_id":"","timestamp":[280702716523301,1616425852],"ttl":-1,"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":99}
+{"k":"filebeat::logs::native::5132503-2050","v":{"id":"native::5132503-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","ttl":-1,"type":"log","FileStateOS":{"inode":5132503,"device":2050},"prev_id":"","offset":0,"timestamp":[280702716633040,1616425852],"identifier_name":"native"}}
+{"op":"set","id":100}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702716698307,1616425852],"id":"native::5131769-2050","ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":101}
+{"k":"filebeat::logs::native::5131770-2050","v":{"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702716523301,1616425852],"ttl":-1,"type":"log","id":"native::5131770-2050","prev_id":""}}
+{"op":"set","id":102}
+{"k":"filebeat::logs::native::5132503-2050","v":{"timestamp":[280702716633040,1616425852],"ttl":-1,"type":"log","FileStateOS":{"device":2050,"inode":5132503},"identifier_name":"native","id":"native::5132503-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","offset":0}}
+{"op":"set","id":103}
+{"k":"filebeat::logs::native::5132504-2050","v":{"id":"native::5132504-2050","offset":0,"timestamp":[280702717754043,1616425872],"type":"log","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/aaaaaa.xml","ttl":-1,"FileStateOS":{"inode":5132504,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":104}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","prev_id":"","offset":0,"timestamp":[280702716698307,1616425852],"ttl":-1,"type":"log"}}
+{"op":"set","id":105}
+{"k":"filebeat::logs::native::5131770-2050","v":{"timestamp":[280702716523301,1616425852],"ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"identifier_name":"native"}}
+{"op":"set","id":106}
+{"k":"filebeat::logs::native::5132503-2050","v":{"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","timestamp":[280702719581051,1616425927],"ttl":-1,"FileStateOS":{"inode":5132503,"device":2050},"identifier_name":"native","id":"native::5132503-2050","type":"log","offset":0}}
+{"op":"set","id":107}
+{"k":"filebeat::logs::native::5132504-2050","v":{"id":"native::5132504-2050","prev_id":"","type":"log","ttl":-1,"FileStateOS":{"inode":5132504,"device":2050},"identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/aaaaaa.xml","offset":0,"timestamp":[280702717754043,1616425872]}}
+{"op":"set","id":108}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","FileStateOS":{"inode":5131769,"device":2050},"type":"log","identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702716698307,1616425852],"ttl":-1}}
+{"op":"set","id":109}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","identifier_name":"native","ttl":-1,"type":"log","FileStateOS":{"device":2050,"inode":5131770},"prev_id":"","offset":0,"timestamp":[280702716523301,1616425852]}}
+{"op":"set","id":110}
+{"k":"filebeat::logs::native::5132503-2050","v":{"FileStateOS":{"inode":5132503,"device":2050},"id":"native::5132503-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/a.xml","offset":0,"timestamp":[280702719581051,1616425927],"ttl":-1,"prev_id":"","type":"log","identifier_name":"native"}}
+{"op":"set","id":111}
+{"k":"filebeat::logs::native::5132504-2050","v":{"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/aaaaaa.xml","identifier_name":"native","ttl":-1,"type":"log","FileStateOS":{"inode":5132504,"device":2050},"id":"native::5132504-2050","offset":0,"timestamp":[280702720444380,1616425927]}}
+{"op":"remove","id":112}
+{"k":"filebeat::logs::native::5132503-2050"}
+{"op":"set","id":113}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","prev_id":"","timestamp":[280702716698307,1616425852],"ttl":-1,"type":"log","identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":114}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","timestamp":[280702716523301,1616425852],"ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0}}
+{"op":"set","id":115}
+{"k":"filebeat::logs::native::5132504-2050","v":{"offset":0,"timestamp":[280702720444380,1616425927],"identifier_name":"native","id":"native::5132504-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/aaaaaa.xml","type":"log","FileStateOS":{"inode":5132504,"device":2050},"prev_id":"","ttl":-1}}
+{"op":"remove","id":116}
+{"k":"filebeat::logs::native::5132504-2050"}
+{"op":"set","id":117}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702716698307,1616425852],"ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":118}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702716523301,1616425852],"ttl":-1,"type":"log"}}
+{"op":"set","id":119}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702716698307,1616425852],"ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","prev_id":"","offset":0,"identifier_name":"native"}}
+{"op":"set","id":120}
+{"k":"filebeat::logs::native::5131770-2050","v":{"offset":0,"ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702716523301,1616425852],"identifier_name":"native"}}
+{"op":"set","id":121}
+{"k":"filebeat::logs::native::5131770-2050","v":{"ttl":-1,"type":"log","offset":0,"timestamp":[280702002052732,1616425980],"FileStateOS":{"device":2050,"inode":5131770},"identifier_name":"native","id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml"}}
+{"op":"set","id":122}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702716698307,1616425852],"type":"log","id":"native::5131769-2050","prev_id":"","offset":0,"ttl":-2,"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":123}
+{"k":"filebeat::logs::native::5131770-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"type":"log","prev_id":"","timestamp":[280702002052732,1616425980],"ttl":-1,"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050"}}
+{"op":"set","id":124}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702002199721,1616425980]}}
+{"op":"set","id":125}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","offset":0,"timestamp":[280702002333566,1616425980],"FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","ttl":-1,"type":"log","identifier_name":"native"}}
+{"op":"set","id":126}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","offset":0,"type":"log","FileStateOS":{"device":2050,"inode":5131769},"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702002199721,1616425980],"ttl":-1}}
+{"op":"set","id":127}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702002333566,1616425980],"ttl":-1,"type":"log","prev_id":"","offset":0,"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":128}
+{"k":"filebeat::logs::native::5131769-2050","v":{"type":"log","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702002457853,1616425980],"ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","prev_id":"","offset":0}}
+{"op":"set","id":129}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702002333566,1616425980],"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","offset":0,"ttl":-1,"type":"log"}}
+{"op":"set","id":130}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702002457853,1616425980]}}
+{"op":"set","id":131}
+{"k":"filebeat::logs::native::5131769-2050","v":{"ttl":-1,"type":"log","id":"native::5131769-2050","timestamp":[280702862530287,1616426166],"offset":0,"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml"}}
+{"op":"set","id":132}
+{"k":"filebeat::logs::native::5131770-2050","v":{"ttl":-2,"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702002333566,1616425980],"prev_id":"","type":"log"}}
+{"op":"set","id":133}
+{"k":"filebeat::logs::native::5131769-2050","v":{"ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702862530287,1616426166],"type":"log","identifier_name":"native","id":"native::5131769-2050","offset":0}}
+{"op":"set","id":134}
+{"k":"filebeat::logs::native::5131770-2050","v":{"offset":0,"identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","prev_id":"","timestamp":[280702862642545,1616426166],"ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050"}}
+{"op":"set","id":135}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"ttl":-1,"identifier_name":"native","id":"native::5131769-2050","prev_id":"","timestamp":[280702862789622,1616426166],"type":"log","FileStateOS":{"device":2050,"inode":5131769}}}
+{"op":"set","id":136}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","timestamp":[280702862642545,1616426166],"ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"identifier_name":"native"}}
+{"op":"set","id":137}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","timestamp":[280702862789622,1616426166],"offset":0,"ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml"}}
+{"op":"set","id":138}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","offset":0,"timestamp":[280702862900678,1616426166],"identifier_name":"native","id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050}}}
+{"op":"set","id":139}
+{"k":"filebeat::logs::native::5131769-2050","v":{"identifier_name":"native","id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702862789622,1616426166],"ttl":-1,"type":"log","offset":0,"FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":140}
+{"k":"filebeat::logs::native::5131770-2050","v":{"identifier_name":"native","timestamp":[280702862900678,1616426166],"ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0}}
+{"op":"set","id":141}
+{"k":"filebeat::logs::native::5131770-2050","v":{"timestamp":[280702426073675,1616426198],"ttl":-1,"identifier_name":"native","offset":0,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml"}}
+{"op":"set","id":142}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702862789622,1616426166],"ttl":-2,"type":"log","offset":0,"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":143}
+{"k":"filebeat::logs::native::5131770-2050","v":{"timestamp":[280702426073675,1616426198],"FileStateOS":{"inode":5131770,"device":2050},"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"ttl":-1,"type":"log","identifier_name":"native","id":"native::5131770-2050"}}
+{"op":"set","id":144}
+{"k":"filebeat::logs::native::5131769-2050","v":{"timestamp":[280702426248839,1616426198],"type":"log","identifier_name":"native","id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"ttl":-1,"FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":145}
+{"k":"filebeat::logs::native::5131770-2050","v":{"offset":0,"timestamp":[280702426073675,1616426198],"type":"log","FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","ttl":-1,"identifier_name":"native"}}
+{"op":"set","id":146}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702426408877,1616426198],"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","offset":0,"ttl":-1,"type":"log"}}
+{"op":"set","id":147}
+{"k":"filebeat::logs::native::5131770-2050","v":{"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"ttl":-1,"id":"native::5131770-2050","prev_id":"","timestamp":[280702426552776,1616426198]}}
+{"op":"set","id":148}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702426408877,1616426198],"identifier_name":"native","id":"native::5131769-2050","prev_id":"","ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":149}
+{"k":"filebeat::logs::native::5131770-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"ttl":-1,"identifier_name":"native","id":"native::5131770-2050","prev_id":"","timestamp":[280702426552776,1616426198],"type":"log","FileStateOS":{"inode":5131770,"device":2050}}}
+{"op":"set","id":150}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"prev_id":"","offset":0,"timestamp":[280702426408877,1616426198],"identifier_name":"native"}}
+{"op":"set","id":151}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702310582558,1616426202],"type":"log","identifier_name":"native"}}
+{"op":"set","id":152}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","timestamp":[280702426552776,1616426198],"ttl":-2,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"identifier_name":"native"}}
+{"op":"set","id":153}
+{"k":"filebeat::logs::native::5131769-2050","v":{"type":"log","FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702310582558,1616426202],"ttl":-1,"identifier_name":"native","prev_id":"","offset":0}}
+{"op":"set","id":154}
+{"k":"filebeat::logs::native::5131770-2050","v":{"offset":0,"timestamp":[280702310716858,1616426202],"type":"log","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","prev_id":"","ttl":-1,"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050"}}
+{"op":"set","id":155}
+{"k":"filebeat::logs::native::5131769-2050","v":{"timestamp":[280702310874974,1616426202],"type":"log","id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":156}
+{"k":"filebeat::logs::native::5131770-2050","v":{"ttl":-1,"FileStateOS":{"inode":5131770,"device":2050},"type":"log","identifier_name":"native","id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702310716858,1616426202]}}
+{"op":"set","id":157}
+{"k":"filebeat::logs::native::5131769-2050","v":{"ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"prev_id":"","offset":0,"timestamp":[280702310874974,1616426202],"type":"log","identifier_name":"native","id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml"}}
+{"op":"set","id":158}
+{"k":"filebeat::logs::native::5131770-2050","v":{"offset":0,"timestamp":[280702311025462,1616426202],"ttl":-1,"FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","type":"log","identifier_name":"native"}}
+{"op":"set","id":159}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702310874974,1616426202],"ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","type":"log","identifier_name":"native","offset":0}}
+{"op":"set","id":160}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","prev_id":"","timestamp":[280702311025462,1616426202],"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"ttl":-1,"type":"log"}}
+{"op":"set","id":161}
+{"k":"filebeat::logs::native::5131770-2050","v":{"FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702710445551,1616426230],"ttl":-1,"type":"log","prev_id":"","offset":0,"identifier_name":"native"}}
+{"op":"set","id":162}
+{"k":"filebeat::logs::native::5131769-2050","v":{"type":"log","identifier_name":"native","timestamp":[280702310874974,1616426202],"ttl":-2,"FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0}}
+{"op":"set","id":163}
+{"k":"filebeat::logs::native::5131770-2050","v":{"offset":0,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702710445551,1616426230],"ttl":-1,"id":"native::5131770-2050"}}
+{"op":"set","id":164}
+{"k":"filebeat::logs::native::5131769-2050","v":{"ttl":-1,"type":"log","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","prev_id":"","offset":0,"timestamp":[280702710567412,1616426230],"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050"}}
+{"op":"set","id":165}
+{"k":"filebeat::logs::native::5131770-2050","v":{"ttl":-1,"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702710445551,1616426230],"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","offset":0}}
+{"op":"set","id":166}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702710710158,1616426230],"ttl":-1,"prev_id":"","type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":167}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","type":"log","identifier_name":"native","id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702710902607,1616426230],"ttl":-1,"FileStateOS":{"inode":5131770,"device":2050}}}
+{"op":"set","id":168}
+{"k":"filebeat::logs::native::5131769-2050","v":{"offset":0,"timestamp":[280702710710158,1616426230],"ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","identifier_name":"native"}}
+{"op":"set","id":169}
+{"k":"filebeat::logs::native::5131770-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702710902607,1616426230],"ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","prev_id":"","offset":0,"identifier_name":"native"}}
+{"op":"set","id":170}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"ttl":-1,"id":"native::5131769-2050","prev_id":"","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","timestamp":[280702710710158,1616426230],"type":"log"}}
+{"op":"set","id":171}
+{"k":"filebeat::logs::native::5131769-2050","v":{"ttl":-1,"type":"log","identifier_name":"native","id":"native::5131769-2050","offset":0,"timestamp":[280701915423862,1616426345],"FileStateOS":{"inode":5131769,"device":2050},"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml"}}
+{"op":"set","id":172}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","offset":0,"type":"log","identifier_name":"native","id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702710902607,1616426230],"ttl":-2,"FileStateOS":{"inode":5131770,"device":2050}}}
+{"op":"set","id":173}
+{"k":"filebeat::logs::native::5131769-2050","v":{"offset":0,"ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280701915423862,1616426345],"identifier_name":"native"}}
+{"op":"set","id":174}
+{"k":"filebeat::logs::native::5131770-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"ttl":-1,"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","prev_id":"","timestamp":[280701915534434,1616426345],"type":"log"}}
+{"op":"set","id":175}
+{"k":"filebeat::logs::native::5131769-2050","v":{"type":"log","identifier_name":"native","offset":0,"timestamp":[280701915609306,1616426345],"ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml"}}
+{"op":"set","id":176}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","offset":0,"timestamp":[280701915534434,1616426345],"type":"log","FileStateOS":{"device":2050,"inode":5131770},"identifier_name":"native","id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","ttl":-1}}
+{"op":"set","id":177}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","prev_id":"","ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280701915609306,1616426345],"type":"log"}}
+{"op":"set","id":178}
+{"k":"filebeat::logs::native::5131770-2050","v":{"timestamp":[280701915711783,1616426345],"ttl":-1,"type":"log","identifier_name":"native","id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"FileStateOS":{"inode":5131770,"device":2050}}}
+{"op":"set","id":179}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"type":"log","identifier_name":"native","id":"native::5131769-2050","prev_id":"","timestamp":[280701915609306,1616426345],"ttl":-1,"FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":180}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","type":"log","FileStateOS":{"inode":5131770,"device":2050},"offset":0,"timestamp":[280701915711783,1616426345],"ttl":-1,"identifier_name":"native"}}
+{"op":"set","id":181}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","prev_id":"","timestamp":[280702315573704,1616426350],"ttl":-1,"type":"log","identifier_name":"native"}}
+{"op":"set","id":182}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","FileStateOS":{"device":2050,"inode":5131770},"type":"log","identifier_name":"native","id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280701915711783,1616426345],"ttl":-2}}
+{"op":"set","id":183}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"ttl":-1,"id":"native::5131769-2050","timestamp":[280702315573704,1616426350],"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":184}
+{"k":"filebeat::logs::native::5131770-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","prev_id":"","timestamp":[280702315730005,1616426350]}}
+{"op":"set","id":185}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"identifier_name":"native","prev_id":"","timestamp":[280702315902042,1616426350],"ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":186}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702315730005,1616426350],"ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","prev_id":""}}
+{"op":"set","id":187}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702315902042,1616426350],"prev_id":"","offset":0,"ttl":-1,"type":"log","FileStateOS":{"device":2050,"inode":5131769},"identifier_name":"native"}}
+{"op":"set","id":188}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","offset":0,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702315988248,1616426350],"ttl":-1}}
+{"op":"set","id":189}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","offset":0,"timestamp":[280702315902042,1616426350],"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","ttl":-1}}
+{"op":"set","id":190}
+{"k":"filebeat::logs::native::5131770-2050","v":{"timestamp":[280702315988248,1616426350],"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"ttl":-1}}
+{"op":"set","id":191}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","prev_id":"","timestamp":[280702582164313,1616426454],"ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"identifier_name":"native"}}
+{"op":"set","id":192}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","offset":0,"timestamp":[280702315988248,1616426350],"id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","ttl":-2,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":193}
+{"k":"filebeat::logs::native::5131769-2050","v":{"ttl":-1,"type":"log","identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","prev_id":"","offset":0,"timestamp":[280702582164313,1616426454],"FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050"}}
+{"op":"set","id":194}
+{"k":"filebeat::logs::native::5131770-2050","v":{"ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702582425034,1616426454],"id":"native::5131770-2050","prev_id":""}}
+{"op":"set","id":195}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702582686714,1616426454],"ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","prev_id":""}}
+{"op":"set","id":196}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"ttl":-1,"identifier_name":"native","id":"native::5131770-2050","timestamp":[280702582425034,1616426454],"type":"log","FileStateOS":{"device":2050,"inode":5131770}}}
+{"op":"set","id":197}
+{"k":"filebeat::logs::native::5131769-2050","v":{"offset":0,"timestamp":[280702582686714,1616426454],"ttl":-1,"identifier_name":"native","id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","type":"log","FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":198}
+{"k":"filebeat::logs::native::5131770-2050","v":{"ttl":-1,"type":"log","id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","identifier_name":"native","offset":0,"timestamp":[280702582988445,1616426454],"FileStateOS":{"device":2050,"inode":5131770}}}
+{"op":"set","id":199}
+{"k":"filebeat::logs::native::5131769-2050","v":{"identifier_name":"native","id":"native::5131769-2050","offset":0,"timestamp":[280702582686714,1616426454],"FileStateOS":{"inode":5131769,"device":2050},"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","ttl":-1,"type":"log"}}
+{"op":"set","id":200}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","offset":0,"FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702582988445,1616426454],"ttl":-1,"type":"log","identifier_name":"native"}}
+{"op":"set","id":201}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","prev_id":"","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","type":"log","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702148296967,1616426533],"ttl":-1}}
+{"op":"set","id":202}
+{"k":"filebeat::logs::native::5131770-2050","v":{"ttl":-2,"FileStateOS":{"device":2050,"inode":5131770},"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702582988445,1616426454],"id":"native::5131770-2050","offset":0,"type":"log"}}
+{"op":"set","id":203}
+{"k":"filebeat::logs::native::5131769-2050","v":{"type":"log","FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","prev_id":"","offset":0,"timestamp":[280702148296967,1616426533],"ttl":-1,"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","identifier_name":"native"}}
+{"op":"set","id":204}
+{"k":"filebeat::logs::native::5131770-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"type":"log","id":"native::5131770-2050","prev_id":"","timestamp":[280702148424711,1616426533],"ttl":-1,"FileStateOS":{"device":2050,"inode":5131770},"identifier_name":"native"}}
+{"op":"set","id":205}
+{"k":"filebeat::logs::native::5131769-2050","v":{"timestamp":[280702148619986,1616426533],"ttl":-1,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0}}
+{"op":"set","id":206}
+{"k":"filebeat::logs::native::5131770-2050","v":{"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","prev_id":"","timestamp":[280702148424711,1616426533],"ttl":-1,"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0}}
+{"op":"set","id":207}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","offset":0,"ttl":-1,"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702148619986,1616426533],"type":"log","FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":208}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","ttl":-1,"type":"log","identifier_name":"native","prev_id":"","offset":0,"timestamp":[280702148704068,1616426533],"FileStateOS":{"inode":5131770,"device":2050}}}
+{"op":"set","id":209}
+{"k":"filebeat::logs::native::5131769-2050","v":{"offset":0,"timestamp":[280702148619986,1616426533],"type":"log","identifier_name":"native","id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","ttl":-1,"FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":210}
+{"k":"filebeat::logs::native::5131770-2050","v":{"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","offset":0,"timestamp":[280702148704068,1616426533],"type":"log","ttl":-1,"id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml"}}
+{"op":"set","id":211}
+{"k":"filebeat::logs::native::5131769-2050","v":{"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702392439894,1616426603],"ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","offset":0,"type":"log"}}
+{"op":"set","id":212}
+{"k":"filebeat::logs::native::5131770-2050","v":{"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702148704068,1616426533],"type":"log","id":"native::5131770-2050","offset":0,"ttl":-2,"FileStateOS":{"inode":5131770,"device":2050}}}
+{"op":"set","id":213}
+{"k":"filebeat::logs::native::5131769-2050","v":{"offset":0,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702392439894,1616426603],"ttl":-1,"identifier_name":"native"}}
+{"op":"set","id":214}
+{"k":"filebeat::logs::native::5131770-2050","v":{"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","offset":0,"timestamp":[280702392675429,1616426603],"type":"log","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","ttl":-1}}
+{"op":"set","id":215}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702392874437,1616426603],"ttl":-1,"type":"log","identifier_name":"native","prev_id":"","offset":0,"FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050"}}
+{"op":"set","id":216}
+{"k":"filebeat::logs::native::5131770-2050","v":{"offset":0,"ttl":-1,"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702392675429,1616426603],"prev_id":""}}
+{"op":"set","id":217}
+{"k":"filebeat::logs::native::5131769-2050","v":{"timestamp":[280702392874437,1616426603],"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"ttl":-1,"type":"log"}}
+{"op":"set","id":218}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","offset":0,"timestamp":[280702393011671,1616426603],"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","ttl":-1,"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml"}}
+{"op":"set","id":219}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","prev_id":"","offset":0,"ttl":-1,"type":"log","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702392874437,1616426603],"FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":220}
+{"k":"filebeat::logs::native::5131770-2050","v":{"identifier_name":"native","id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","timestamp":[280702393011671,1616426603],"type":"log","FileStateOS":{"inode":5131770,"device":2050},"offset":0,"ttl":-1}}
+{"op":"set","id":221}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","prev_id":"","offset":0,"timestamp":[280702538133353,1616426637],"ttl":-1,"type":"log","id":"native::5131769-2050"}}
+{"op":"set","id":222}
+{"k":"filebeat::logs::native::5131770-2050","v":{"timestamp":[280702393011671,1616426603],"ttl":-2,"type":"log","id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"FileStateOS":{"device":2050,"inode":5131770},"identifier_name":"native"}}
+{"op":"set","id":223}
+{"k":"filebeat::logs::native::5131769-2050","v":{"ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","offset":0,"timestamp":[280702538133353,1616426637],"type":"log","identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml"}}
+{"op":"set","id":224}
+{"k":"filebeat::logs::native::5131770-2050","v":{"type":"log","FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702538285448,1616426637],"ttl":-1,"id":"native::5131770-2050"}}
+{"op":"set","id":225}
+{"k":"filebeat::logs::native::5131769-2050","v":{"timestamp":[280702538133353,1616426637],"type":"log","FileStateOS":{"inode":5131769,"device":2050},"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"ttl":-1,"identifier_name":"native","id":"native::5131769-2050","prev_id":""}}
+{"op":"set","id":226}
+{"k":"filebeat::logs::native::5131770-2050","v":{"timestamp":[280702538848403,1616426637],"ttl":-1,"FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"type":"log","identifier_name":"native"}}
+{"op":"set","id":227}
+{"k":"filebeat::logs::native::5131769-2050","v":{"timestamp":[280702538923547,1616426637],"ttl":-1,"FileStateOS":{"inode":5131769,"device":2050},"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"id":"native::5131769-2050","type":"log","identifier_name":"native"}}
+{"op":"set","id":228}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","ttl":-1,"identifier_name":"native","FileStateOS":{"device":2050,"inode":5131770},"id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702538848403,1616426637],"type":"log"}}
+{"op":"set","id":229}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","offset":0,"type":"log","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","id":"native::5131769-2050","timestamp":[280702538923547,1616426637],"ttl":-1,"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml"}}
+{"op":"set","id":230}
+{"k":"filebeat::logs::native::5131770-2050","v":{"id":"native::5131770-2050","prev_id":"","timestamp":[280702538848403,1616426637],"ttl":-1,"type":"log","identifier_name":"native","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"FileStateOS":{"device":2050,"inode":5131770}}}
+{"op":"set","id":231}
+{"k":"filebeat::logs::native::5131769-2050","v":{"offset":0,"timestamp":[280702003898552,1616426648],"ttl":-1,"identifier_name":"native","id":"native::5131769-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","type":"log","FileStateOS":{"inode":5131769,"device":2050}}}
+{"op":"set","id":232}
+{"k":"filebeat::logs::native::5131770-2050","v":{"timestamp":[280702538848403,1616426637],"type":"log","id":"native::5131770-2050","prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"ttl":-2,"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native"}}
+{"op":"set","id":233}
+{"k":"filebeat::logs::native::5131769-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702003898552,1616426648],"id":"native::5131769-2050","prev_id":"","FileStateOS":{"inode":5131769,"device":2050},"identifier_name":"native","ttl":-1,"type":"log"}}
+{"op":"set","id":234}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","offset":0,"timestamp":[280702004029305,1616426648],"FileStateOS":{"inode":5131770,"device":2050},"identifier_name":"native","id":"native::5131770-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","ttl":-1,"type":"log"}}
+{"op":"set","id":235}
+{"k":"filebeat::logs::native::5131769-2050","v":{"prev_id":"","type":"log","FileStateOS":{"inode":5131769,"device":2050},"id":"native::5131769-2050","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","offset":0,"timestamp":[280702004126439,1616426648],"ttl":-1,"identifier_name":"native"}}
+{"op":"set","id":236}
+{"k":"filebeat::logs::native::5131770-2050","v":{"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","offset":0,"timestamp":[280702004029305,1616426648],"type":"log","FileStateOS":{"inode":5131770,"device":2050},"id":"native::5131770-2050","prev_id":"","ttl":-1,"identifier_name":"native"}}
+{"op":"set","id":237}
+{"k":"filebeat::logs::native::5131769-2050","v":{"id":"native::5131769-2050","prev_id":"","offset":0,"FileStateOS":{"inode":5131769,"device":2050},"source":"/home/cirux/Projects/docker-elk/filebeat/bpe/BlaBlaCar - XML - 43201092954106000142631300001091331923735796.xml","timestamp":[280702004126439,1616426648],"ttl":-1,"type":"log","identifier_name":"native"}}
+{"op":"set","id":238}
+{"k":"filebeat::logs::native::5131770-2050","v":{"prev_id":"","source":"/home/cirux/Projects/docker-elk/filebeat/bpe/Ouro e Prata - XML - 43201092954106000142631300001091361412613620.xml","ttl":-1,"identifier_name":"native","id":"native::5131770-2050","offset":0,"timestamp":[280702004254314,1616426648],"type":"log","FileStateOS":{"inode":5131770,"device":2050}}}

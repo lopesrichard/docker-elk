@@ -1,0 +1,40 @@
+# ============================== Filebeat Inputs ===============================
+
+filebeat.inputs:
+
+- type: log
+
+  enabled: true
+
+  paths:
+    - ${path.config}/bpe/*.xml
+
+# ============================== Filebeat Modules ==============================
+
+filebeat.config.modules:
+
+  path: ${path.config}/modules.d/*.yml
+
+  reload.enabled: false
+
+  #reload.period: 10s
+
+# ======================= Elasticsearch Template Setting =======================
+
+setup.template.settings:
+  index.number_of_shards: 1
+
+
+# ======================= Logstash Output =======================
+
+output.logstash:
+
+  hosts: ["localhost:5000"]
+
+# ================================= Processors =================================
+processors:
+  - add_host_metadata:
+      when.not.contains.tags: forwarded
+  - add_cloud_metadata: ~
+  - add_docker_metadata: ~
+  - add_kubernetes_metadata: ~
